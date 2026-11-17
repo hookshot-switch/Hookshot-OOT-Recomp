@@ -1,0 +1,6 @@
+{
+  "release": "2.3.2",
+  "save_backups_max": 20,
+  "vulkan_only_windows": true,
+  "user_dir_flag": "--user"
+}
